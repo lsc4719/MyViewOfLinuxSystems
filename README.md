@@ -2,7 +2,7 @@
 
 Dotted arrow means dependencies. [1]
 
-![my view of a process in a computer system](https://github.com/lsc4719/MyViewOfComputerSystem/blob/main/process-view.png)
+![my view of a process in a computer system](https://github.com/lsc4719/MyViewOfComputerSystem/blob/main/process-view-0.drawio.png)
 
 
 ### ref
