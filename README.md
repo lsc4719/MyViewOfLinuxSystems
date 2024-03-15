@@ -2,6 +2,7 @@
 
 Dotted arrow means dependencies. [1]
 
+### A view from a process within a Linux system towards the world
 ![my view of a process in a computer system](https://github.com/lsc4719/MyViewOfComputerSystem/blob/main/process-view-0.drawio.svg)
 
 
