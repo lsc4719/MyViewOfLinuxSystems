@@ -1,5 +1,6 @@
 # MyViewOfLinuxSystems
 
+A view from a process within a Linux system towards the world.  
 Dotted arrow means dependencies. [1]
 
 ![Diagram: A view from a process within a Linux system towards the world](https://github.com/lsc4719/MyViewOfComputerSystem/blob/main/process-view-0.drawio.svg)
