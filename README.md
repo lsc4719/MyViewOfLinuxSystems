@@ -1,5 +1,6 @@
 # MyViewOfLinuxSystems
 
+I want to change this repo's name to "MyViewOfComputerSystems".  
 Dotted arrow means dependencies. [1]
 
 ### A view from a user towards a computer system(standalone/distributed)
@@ -10,6 +11,9 @@ TODO: add diagram here
 
 ![Diagram: A view from a process within a Linux system towards the world](https://github.com/lsc4719/MyViewOfComputerSystem/blob/main/process-view-0.drawio.svg)
 
+### A view from a process within a Windows System towards the world
+
+Maybe someone can draw something here? Please 🙏 share your view.
 
 ### ref
 How Linux Works, 2nd edition. https://www.yes24.com/Product/Goods/22404368  
