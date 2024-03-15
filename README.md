@@ -1,10 +1,9 @@
 # MyViewOfLinuxSystems
 
 A view from a process within a Linux system towards the world.  
-A process leverages **devices** via abstractions provided by the kernel.  
 Dotted arrow means dependencies. [1]
 
-![Diagram: A view from a process within a Linux system towards the world](https://github.com/lsc4719/MyViewOfComputerSystem/blob/main/process-view-0.drawio.svg)
+![Diagram: A view from a process within a Linux system towards the world. A process leverages devices via abstractions provided by the kernel.](https://github.com/lsc4719/MyViewOfComputerSystem/blob/main/process-view-0.drawio.svg)
 
 ### ref
 How Linux Works, 2nd edition. https://www.yes24.com/Product/Goods/22404368  
